@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scane1Main.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/achievements.unity
+    guid: b55bc07dfabc1fe42b6861bf8cdf8e60
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: d7ab8231e9a5bbe47b2b5c3efac1dc7c
+  - enabled: 1
+    path: Assets/Scenes/online.unity
+    guid: b7a8db34075f27f4a9959efe5dd0cd64
+  - enabled: 1
+    path: Assets/Scenes/Ship.unity
+    guid: 2192b2c07b379ef47a44f12f5a241cce
+  - enabled: 1
+    path: Assets/Scenes/7day.unity
+    guid: 628055aa88b9be4449539e850f6083b9
+  - enabled: 1
+    path: Assets/Scenes/Event5.unity
+    guid: 5425efe594445a840aee512d24768282
+  m_configObjects: {}
